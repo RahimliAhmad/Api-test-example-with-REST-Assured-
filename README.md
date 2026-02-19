@@ -1,6 +1,6 @@
 #  QA Automation – Example
 
-## 📌 Overview
+##  Overview
 
 This project implements a lightweight REST API automation framework using:
 
@@ -18,7 +18,7 @@ The framework demonstrates clean architecture, reusable API client design, and m
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 | Tool | Version |
 |------|---------|
