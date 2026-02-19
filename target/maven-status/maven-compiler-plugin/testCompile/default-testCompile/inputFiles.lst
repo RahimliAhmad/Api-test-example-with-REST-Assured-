@@ -1,0 +1,6 @@
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/client/JokeApiClient.java
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/config/ApiConfig.java
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/config/RequestSpecFactory.java
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/context/TestContext.java
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/runners/RunCucumberTest.java
+/Users/ahmadrahimli/Downloads/Junior_automation_task/src/test/java/com/example/jokes/steps/JokeSteps.java
